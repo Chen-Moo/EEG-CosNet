@@ -134,4 +134,4 @@ If this work is helpful to your research, please cite:
 
 ## License
 
-[To be filled in] -- MIT or Apache-2.0 is recommended.
+MIT
