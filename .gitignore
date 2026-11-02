@@ -1,0 +1,28 @@
+# Data & artifacts (large binary files not tracked)
+data/
+*.npy
+*.edf
+*.fif
+
+# Results / model weights
+results/
+*.h5
+*.keras
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
